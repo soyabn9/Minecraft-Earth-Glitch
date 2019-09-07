@@ -1,0 +1,19 @@
+{
+  "name": "github-to-glitch-sync",
+  "version": "1.0.0",
+  "description": "github-to-glitch-sync",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Soyab Nandhla",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-cmd": "^3.0.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
